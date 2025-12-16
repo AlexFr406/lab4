@@ -1,0 +1,4 @@
+﻿  Program.cpp
+\Program.cpp(1,1): error C1083: Не удается открыть файл источник: Program.cpp: No such file or directory,
+  (compiling source file '/Program.cpp')
+  
